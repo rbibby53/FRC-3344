@@ -1,5 +1,9 @@
 [My Computer]
+<<<<<<< HEAD:Comp Code/2019 roboRIO Project.aliases
 My Computer = "10.2.69.32"
+=======
+My Computer = "10.3.164.74"
+>>>>>>> a0c052d561045defff28dc6b0d434226d2d92d3b:new/2019 Bibby Project.aliases
 
 [Target]
 Target = "172.22.11.2"
