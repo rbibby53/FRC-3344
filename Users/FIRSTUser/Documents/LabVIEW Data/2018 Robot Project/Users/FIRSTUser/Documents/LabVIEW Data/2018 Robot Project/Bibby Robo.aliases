@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "172.22.11.1"
+
+[roboRio-3344-FRC]
+roboRio-3344-FRC = "172.22.11.2"
+
