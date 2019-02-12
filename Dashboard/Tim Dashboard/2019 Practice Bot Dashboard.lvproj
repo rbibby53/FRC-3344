@@ -268,7 +268,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
@@ -278,7 +278,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/FRC_Dashboard/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Support/App EXE.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{84CF7C75-078B-43BB-875B-1A3BF2D06CFB}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{CF4D7237-4ECB-4403-B195-D6918F32FDD7}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
